@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://crection.github.io/sitemap.html.gz
+Sitemap: https://crection.github.io/app/sitemap.html.gz
+Sitemap: https://crection.github.io/assets/sitemap.html.gz
+Sitemap: https://crection.github.io/css/sitemap.html.gz
+Sitemap: https://crection.github.io/data/sitemap.html.gz
+Sitemap: https://crection.github.io/includes/sitemap.html.gz
+Sitemap: https://crection.github.io/item/sitemap.html.gz
+Sitemap: https://crection.github.io/src/sitemap.html.gz
